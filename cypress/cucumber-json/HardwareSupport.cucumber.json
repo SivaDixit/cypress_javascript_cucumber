@@ -1,0 +1,262 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "User search Toolbox products in Matlab Hardware Support",
+    "line": 1,
+    "id": "user-search-toolbox-products-in-matlab-hardware-support",
+    "tags": [],
+    "uri": "HardwareSupport.feature",
+    "elements": [
+      {
+        "id": "user-search-toolbox-products-in-matlab-hardware-support;user-visits-mathworks-website-to-search-for-toolbox-products-in-hardware-support-page",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "User visits Mathworks website to search for toolbox products in hardware support page",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I open google home page",
+            "result": {
+              "status": "passed",
+              "duration": 5366000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "I open Mathworks website from the google search page",
+            "result": {
+              "status": "passed",
+              "duration": 14592000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "I validate Mathworks website",
+            "result": {
+              "status": "passed",
+              "duration": 334000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 7,
+            "name": "I navigate to hardware support page",
+            "result": {
+              "status": "passed",
+              "duration": 3943000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "I validate hardware support page",
+            "result": {
+              "status": "passed",
+              "duration": 88000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "I enter text in the search box",
+            "result": {
+              "status": "passed",
+              "duration": 7799000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 10,
+            "name": "I validate the search results",
+            "result": {
+              "status": "passed",
+              "duration": 577000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "user-search-toolbox-products-in-matlab-hardware-support;user-visits-mathworks-website-to-search-with-toolbox-keyword-and-filter-out-with-matlab-product",
+        "keyword": "Scenario",
+        "line": 13,
+        "name": "user visits Mathworks website to search with toolbox keyword and filter out with matlab product",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 14,
+            "name": "I open google home page",
+            "result": {
+              "status": "passed",
+              "duration": 2333000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 15,
+            "name": "I open Mathworks website from the google search page",
+            "result": {
+              "status": "passed",
+              "duration": 9463000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 16,
+            "name": "I validate Mathworks website",
+            "result": {
+              "status": "passed",
+              "duration": 260000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 17,
+            "name": "I navigate to hardware support page",
+            "result": {
+              "status": "passed",
+              "duration": 2966000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 18,
+            "name": "I validate hardware support page",
+            "result": {
+              "status": "passed",
+              "duration": 47000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "I enter text in the search box",
+            "result": {
+              "status": "passed",
+              "duration": 5340000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "I filter with matlab product category",
+            "result": {
+              "status": "passed",
+              "duration": 1167000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "I validate with the search count with the original count",
+            "result": {
+              "status": "passed",
+              "duration": 2094000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "user-search-toolbox-products-in-matlab-hardware-support;user-visits-mathworks-website-and-search-with-invalid-text-which-shows-searching-tips",
+        "keyword": "Scenario",
+        "line": 23,
+        "name": "user visits Mathworks website and search with invalid text which shows searching tips",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 24,
+            "name": "I open google home page",
+            "result": {
+              "status": "passed",
+              "duration": 1805000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 25,
+            "name": "I open Mathworks website from the google search page",
+            "result": {
+              "status": "passed",
+              "duration": 9992000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 26,
+            "name": "I validate Mathworks website",
+            "result": {
+              "status": "passed",
+              "duration": 287000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 27,
+            "name": "I navigate to hardware support page",
+            "result": {
+              "status": "passed",
+              "duration": 3366000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 28,
+            "name": "I validate hardware support page",
+            "result": {
+              "status": "passed",
+              "duration": 50000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 29,
+            "name": "I enter invalid text in the search box",
+            "result": {
+              "status": "passed",
+              "duration": 2834000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 30,
+            "name": "I validate search tips for Invalid search text",
+            "result": {
+              "status": "passed",
+              "duration": 351000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
